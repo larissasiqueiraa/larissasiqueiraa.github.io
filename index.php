@@ -15,6 +15,8 @@
             <h1>Desenvolvedora Front-End</h1>
             <p>Crio landing pages incríveis e sites institucionais responsivos usando HTML e CSS. </p>
             <p id="foco">Meu foco é entregar projetos simples, rápidos e com código limpo</p>
+            <a href="">Fale comigo</a>
+
         </div>
 
 
