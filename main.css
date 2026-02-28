@@ -276,7 +276,7 @@ button:hover {
     border-radius: 10px;
 }
 
-.iniciais-menu a {
+h3.iniciais-menu a {
     text-decoration: none !important;
     color: white !important;
 }
