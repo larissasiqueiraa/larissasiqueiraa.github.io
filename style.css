@@ -276,6 +276,10 @@ button:hover {
     border-radius: 10px;
 }
 
+.iniciais-menu{
+    text-decoration: none;
+    color: white;
+}
 
 /*-------MOBILE----------*/
 
