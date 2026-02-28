@@ -276,7 +276,7 @@ button:hover {
     border-radius: 10px;
 }
 
-.iniciais-menu {
+.iniciais-menu a {
     text-decoration: none !important;
     color: white !important;
 }
@@ -308,10 +308,5 @@ button:hover {
 
     .sobre-projeto {
         margin-top: 20px;
-    }
-
-    /* teste-deploy */
-    body {
-        outline: 10px solid red !important;
     }
 }
