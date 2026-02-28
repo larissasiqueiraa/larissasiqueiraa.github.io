@@ -277,8 +277,8 @@ button:hover {
 }
 
 .iniciais-menu {
-    text-decoration: none;
-    color: white;
+    text-decoration: none !important;
+    color: white !important;
 }
 
 
