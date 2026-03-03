@@ -58,6 +58,7 @@ nav a {
     margin: 22px 22px 22px 0 !important;
     padding: 15px;
     min-height: 93%;
+    color: white;
 }
 
 .infos-projetos-destaque img {
@@ -283,8 +284,8 @@ p.iniciais-menu a {
 }
 
 .iniciais-menu span {
-  font-weight: 700;
-  color: #2F838D;
+    font-weight: 700;
+    color: #2F838D;
 }
 
 
@@ -338,6 +339,18 @@ p.iniciais-menu a {
 
 .menu a:hover::after {
     width: 100%;
+}
+
+.ver-todos {
+    color: #2F838D
+}
+
+.ver-todos:hover {
+    color: #225e65;
+}
+
+.titulo-projetos-destaq {
+    font-weight: 600;
 }
 
 /*-------MOBILE----------*/
